@@ -1,6 +1,6 @@
 # Language: Mongolian
 
-Official Mongolian translation for [Symphony](http://www.symphony-cms.com).  
+Mongolian translation for [Symphony](http://www.symphony-cms.com).  
 
 - Version: 1.0.0
 - Date: 27st April 2011

@@ -15,7 +15,7 @@
 					'website' => 'http://www.buyantorgil.com',
 					'email' => 'buyantorgil@gmail.com'
 				),
-				'description' => 'Official Mongolian translation for the Symphony backend',
+				'description' => 'Mongolian translation for the Symphony backend',
 			);
 		}
 
