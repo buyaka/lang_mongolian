@@ -195,28 +195,28 @@
 		'Хуудасны төрөл',
 
 		'Sorting and Limiting' => 
-		false,
+		'Эрэмбэлэлт ба Хязгаарлалт',
 
 		'Use <code>{$param}</code> syntax to limit by page parameters.' => 
 		false,
 
 		'Sort By' => 
-		false,
+		'Эрэмбэлэлт',
 
 		'Author ID' => 
-		false,
+		'Автор ID',
 
 		'Status' => 
 		'Статус',
 
 		'Page ID' => 
-		false,
+		'Хуудасны ID',
 
 		'Handle' => 
 		false,
 
 		'Sort Order' => 
-		false,
+		'Эрэмбэлэлт',
 
 		'ascending' => 
 		'өсөхөөр',
@@ -240,7 +240,7 @@
 		false,
 
 		'Optional' => 
-		false,
+		'Заавал бус',
 
 		'An empty result will be returned when this parameter does not have a value. Do not wrap the parameter with curly-braces.' => 
 		false,
@@ -258,7 +258,7 @@
 		false,
 
 		'User type' => 
-		false,
+		'Хэрэлэгчийн төрөл',
 
 		'System Author' => 
 		false,
@@ -270,13 +270,13 @@
 		false,
 
 		'Group By' => 
-		false,
+		'Групп',
 
 		'Author' => 
-		false,
+		'Автор',
 
 		'Included Elements' => 
-		false,
+		'Элементүүдын хамруулалт',
 
 		'%s Include a count of entries in associated sections' => 
 		false,
@@ -285,7 +285,7 @@
 		false,
 
 		'URL' => 
-		false,
+		'Холбоос',
 
 		'Use <code>{$param}</code> syntax to specify dynamic portions of the URL.' => 
 		false,
@@ -345,10 +345,10 @@
 		false,
 
 		'This is a required field' => 
-		false,
+		'Энэ заавал утга оруулах талбар',
 
 		'XML is invalid' => 
-		false,
+		'Тохирохгүй XML',
 
 		'Must be a valid number' => 
 		false,
@@ -384,7 +384,7 @@
 		'Зөвхөн захирагч ',
 
 		'Send Notification Email' => 
-		'',
+		'Э-шуудангаар мэдэгдэл илгээх',
 
 		'Allow Multiple' => 
 		'Олныг зөвшөөрөх',
@@ -432,7 +432,7 @@
 		false,
 
 		'Submit' => 
-		false,
+		'Биелүүл',
 
 		'To edit an existing entry, include the entry ID value of the entry in the form. This is best as a hidden field like so:' => 
 		false,
@@ -444,7 +444,7 @@
 		false,
 
 		'list of comma-separated author usernames.' => 
-		false,
+		'авторын нэрүүдийг таслалаар тусгаарласан жагсаалт',
 
 		'All of these fields can be set dynamically using the exact field name of another field in the form as shown below in the example form:' => 
 		false,
@@ -477,7 +477,7 @@
 		'Төрөл',
 
 		'Children' => 
-		false,
+		'Хүү холбоос',
 
 		'None found.' => 
 		false,
@@ -516,7 +516,7 @@
 		false,
 
 		'URL Parameters' => 
-		false,
+		'Холбоосын параметрүүд',
 
 		'Page Resources' => 
 		false,
@@ -540,7 +540,7 @@
 		false,
 
 		'Title is a required field' => 
-		false,
+		'Гарчиг заавал утга оруулах талбар',
 
 		'An index type page already exists.' => 
 		false,
@@ -573,10 +573,10 @@
 		false,
 
 		'Create a section' => 
-		false,
+		'Бүтэц үүсгэх',
 
 		'Entries' => 
-		false,
+		'Бичлэгүүд',
 
 		'Navigation Group' => 
 		false,
@@ -585,7 +585,7 @@
 		false,
 
 		'Delete Entries' => 
-		false,
+		'Бичлэгүүдийг устгах',
 
 		'Are you sure you want to delete all entries in the selected sections?' => 
 		false,
@@ -603,13 +603,13 @@
 		false,
 
 		'Fields' => 
-		false,
+		'Талбарууд',
 
 		'Create Section' => 
-		false,
+		'Бүтэц үүсгэх',
 
 		'Unknown Section' => 
-		false,
+		'Тодорхойгүй бүтэц',
 
 		'The Section you are looking for could not be found.' => 
 		false,
@@ -624,13 +624,13 @@
 		false,
 
 		'Delete this section' => 
-		false,
+		'Энэ бүтцийг устгах',
 
 		'Are you sure you want to delete this section?' => 
 		false,
 
 		'This is a required field.' => 
-		false,
+		'Энэ заавал утга оруулах талбар',
 
 		'A Section with the name <code>%s</code> name already exists' => 
 		false,
@@ -651,22 +651,22 @@
 		false,
 
 		'Create Utility' => 
-		false,
+		'Хэрэгсэл үүсгэх',
 
 		'Delete this utility' => 
-		false,
+		'Энэ хэрэгслийг устгах',
 
 		'Are you sure you want to delete this Utility?' => 
 		false,
 
 		'Name is a required field.' => 
-		false,
+		'Нэр заавал утга оруулах талбар',
 
 		'A Utility with that name already exists. Please choose another.' => 
 		false,
 
 		'Login' => 
-		false,
+		'Нэвтрэх',
 
 		'An email containing a customised login link has been sent. It will expire in 2 hours.' => 
 		false,
@@ -675,19 +675,19 @@
 		false,
 
 		'Email Address' => 
-		false,
+		'Э-шуудангийн хаяг',
 
 		'There was a problem locating your account. Please check that you are using the correct email address.' => 
 		false,
 
 		'Send Email' => 
-		false,
+		'Э-шуудан илгээх',
 
 		'New Password' => 
-		false,
+		'Шинэ нууц код',
 
 		'Confirm New Password' => 
-		false,
+		'Шинэ нууц код шалгалт',
 
 		'The supplied password was rejected. Make sure it is not empty and that password matches password confirmation.' => 
 		false,
@@ -696,10 +696,10 @@
 		false,
 
 		'New Symphony Account Password' => 
-		false,
+		'Симпони шинэ хэрэгчийн нууц код',
 
 		'Hi %s,' => 
-		false,
+		'Сайн уу %s,',
 
 		'A new password has been requested for your account. Login using the following link, and change your password via the Authors area:' => 
 		false,
@@ -708,58 +708,58 @@
 		false,
 
 		'Best Regards,' => 
-		false,
+		'Хүндэтгэн ёсолсон,',
 
 		'The Symphony Team' => 
-		false,
+		'Симпони баг',
 
 		'Symphony Concierge' => 
-		false,
+		'Симпони консьерж',
 
 		'As requested, here is your new Symphony Author Password for ' => 
 		false,
 
 		'Password reset. Check your email' => 
-		false,
+		'Нууц код сэргэсэн. Та э-шуудангаа шалгана уу',
 
 		'The Section you are looking, <code>%s</code> for could not be found.' => 
 		false,
 
 		'Create a new entry' => 
-		false,
+		'Шинэ бичлэг оруулах',
 
 		'Sort by %1$s %2$s' => 
-		false,
+		'Эрэмбэлэлт %1$s %2$s',
 
 		'Are you sure you want to delete the selected entries?' => 
-		false,
+		'Та сонгосон бичлэгүүдийг устгахдаа итгэлтэй байна уу?',
 
 		'Set %s' => 
 		false,
 
 		'First' => 
-		false,
+		'Эхний',
 
 		'&larr; Previous' => 
-		false,
+		'&larr; Өмнөх',
 
 		'Page %1$s of %2$s' => 
-		false,
+		'Хуудас %1$s/%2$s',
 
 		'Viewing %1$s - %2$s of %3$s entries' => 
 		false,
 
 		'Next &rarr;' => 
-		false,
+		'Дараах &rarr;',
 
 		'Last' => 
-		false,
+		'Сүүлийн',
 
 		'It looks like you\'re trying to create an entry. Perhaps you want fields first? <a href="%s">Click here to create some.</a>' => 
 		false,
 
 		'Create Entry' => 
-		false,
+		'Бичлэг үүсгэх',
 
 		'Some errors were encountered while attempting to save.' => 
 		false,
@@ -768,7 +768,7 @@
 		false,
 
 		'Unknown Entry' => 
-		false,
+		'Тодорхойгүй бичлэг',
 
 		'The entry you are looking for could not be found.' => 
 		false,
@@ -780,25 +780,25 @@
 		false,
 
 		'Delete this entry' => 
-		false,
+		'Энэ бичлэгийг устгах',
 
 		'Are you sure you want to delete this entry?' => 
-		false,
+		'Энэ бичлэгийг устгахдаа итгэлтэй байна уу?',
 
 		'Add an Author' => 
-		false,
+		'Автор нэмэх',
 
 		'Add a new author' => 
-		false,
+		'Шинэ автор нэмэх',
 
 		'Last Seen' => 
-		false,
+		'Сүүлд үзсэн',
 
 		'Are you sure you want to delete the selected authors?' => 
-		false,
+		'Та сонгогдсон авторуудыг устгахдаа итгэлтэй байна уу?',
 
 		'Access Denied' => 
-		false,
+		'Хандаж чадсангүй',
 
 		'Author updated at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Authors</a>' => 
 		false,
@@ -807,7 +807,7 @@
 		false,
 
 		'Author not found' => 
-		false,
+		'Автор алга байна',
 
 		'The author profile you requested does not exist.' => 
 		false,
@@ -819,13 +819,13 @@
 		false,
 
 		'Developer' => 
-		false,
+		'Хөгжүүлэгч',
 
 		'Old Password' => 
-		false,
+		'Хуучин нууц код',
 
 		'Confirm Password' => 
-		false,
+		'Нууц код шалгалт',
 
 		'Leave password fields blank to keep the current password' => 
 		false,
@@ -840,22 +840,22 @@
 		false,
 
 		'Language' => 
-		false,
+		'Хэл',
 
 		'System Default' => 
 		false,
 
 		'Create Author' => 
-		false,
+		'Автор үүсгэх',
 
 		'Delete this author' => 
-		false,
+		'Энэ авторыг устгах',
 
 		'Are you sure you want to delete this author?' => 
-		false,
+		'Энэ авторыг устгахдаа итгэлтэй байна уу?',
 
 		'Passwords did not match' => 
-		false,
+		'Нууц код тохирохгүй байна',
 
 		'There were some problems while attempting to save. Please check below for problem fields.' => 
 		false,
@@ -870,22 +870,22 @@
 		false,
 
 		'Extensions' => 
-		false,
+		'Нэмэлтүүд',
 
 		'Installed Version' => 
-		false,
+		'Суусан хувилбар',
 
 		'Enabled' => 
-		false,
+		'Хүчинтэй',
 
 		'Not Installed' => 
-		false,
+		'Суугдаагүй',
 
 		'Yes' => 
-		false,
+		'Тийм',
 
 		'Disabled' => 
-		false,
+		'Хүчингүй',
 
 		'Enable to install %s' => 
 		false,
@@ -894,34 +894,34 @@
 		false,
 
 		'Enable' => 
-		false,
+		'Хүчинтэй болгох',
 
 		'Disable' => 
-		false,
+		'Хүчингүй болгох',
 
 		'Uninstall' => 
-		false,
+		'Суултыг устгах',
 
 		'Are you sure you want to uninstall the selected extensions?' => 
-		false,
+		'Та сонгогдсон нэмэлтүүдийн суултыг устгахдаа итгэлтэй байна уу?',
 
 		'Preferences' => 
-		false,
+		'Тохируулгууд',
 
 		'The Symphony configuration file, <code>/manifest/config.php</code>, is not writable. You will not be able to save changes to preferences.' => 
 		false,
 
 		'Preferences saved.' => 
-		false,
+		'Тохируулгыг хадгалсан.',
 
 		'System Language' => 
-		false,
+		'Системийн хэл',
 
 		'Authors can set up a differing language in their profiles.' => 
 		false,
 
 		'Email Gateway' => 
-		false,
+		'Э-шуудан гатевэй',
 
 		'The Symphony core will use the selected gateway to send emails. More gateways can be installed using extensions, and any gateway may be used by custom events or extensions.' => 
 		false,
@@ -942,13 +942,13 @@
 		false,
 
 		'Page Not Found' => 
-		false,
+		'Хуудас олдсонгүй',
 
 		'The page you requested does not exist.' => 
 		false,
 
 		'Invalid timezone \'{$timezone}\'' => 
-		false,
+		'Тохирохгүй цагийн бүс \'{$timezone}\'',
 
 		'The page you requested, %s, does not exist.' => 
 		false,
@@ -960,28 +960,28 @@
 		false,
 
 		'Logout' => 
-		false,
+		'Гарах',
 
 		'First name is required' => 
-		false,
+		'Өөрийн нэр хэрэгцээтэй',
 
 		'Last name is required' => 
-		false,
+		'Эцэг(Эх)ийн нэр хэрэгцээтэй',
 
 		'E-mail address is required' => 
-		false,
+		'Э-шуудангийн хаяг хэрэгцээтэй',
 
 		'E-mail address entered is invalid' => 
-		false,
+		'Э-шуудангийн хаяг зөв биш байна',
 
 		'Username is required' => 
-		false,
+		'Хэрэглэгчийн нэр хэрэгцээтэй',
 
 		'Username is already taken' => 
 		false,
 
 		'Password is required' => 
-		false,
+		'Нууц код хэрэгцээтэй',
 
 		'No records found.' => 
 		false,
@@ -990,10 +990,10 @@
 		false,
 
 		'Edit' => 
-		false,
+		'Засах',
 
 		'Utility' => 
-		false,
+		'Хэрэгсэл',
 
 		'Email Gateway Error' => 
 		false,
@@ -1068,16 +1068,16 @@
 		false,
 
 		'Main content' => 
-		false,
+		'Үндсэн өгөгдөл',
 
 		'Sidebar' => 
 		false,
 
 		'Formatting' => 
-		false,
+		'Хэлбэржүүлэлт',
 
 		'Validation Rule' => 
-		false,
+		'Шалгах дүрэм',
 
 		'%s Make this a required field' => 
 		false,
@@ -1290,7 +1290,7 @@
 		false,
 
 		'Website Name' => 
-		false,
+		'Сайтын нэр',
 
 		'Environment Settings' => 
 		false,
@@ -1299,13 +1299,13 @@
 		false,
 
 		'Root Path' => 
-		false,
+		'Рүүт байрлал',
 
 		'Website Preferences' => 
 		false,
 
 		'Date and Time' => 
-		false,
+		'Огноо ба Цаг',
 
 		'Customise how Date and Time values are displayed throughout the Administration interface.' => 
 		false,
@@ -1314,37 +1314,37 @@
 		false,
 
 		'Date Format' => 
-		false,
+		'Огнооны хэлбэржүүлэлт',
 
 		'no leading zeros' => 
 		false,
 
 		'Time Format' => 
-		false,
+		'Цагийн хэлбэржүүлэлт',
 
 		'Database Connection' => 
-		false,
+		'Өгөгдлийн сангийн холболт',
 
 		'Please provide Symphony with access to a database.' => 
 		false,
 
 		'Database' => 
-		false,
+		'Өгөгдлийн сан',
 
 		'Advanced Configuration' => 
-		false,
+		'Дэвшсэн тохируулга',
 
 		'Leave these fields unless you are sure they need to be changed.' => 
 		false,
 
 		'Host' => 
-		false,
+		'Хост',
 
 		'Port' => 
-		false,
+		'Порт',
 
 		'Table Prefix' => 
-		false,
+		'Хүснэгтийн прэпикс',
 
 		'Use compatibility mode' => 
 		false,
@@ -1359,31 +1359,31 @@
 		false,
 
 		'Files' => 
-		false,
+		'Файлууд',
 
 		'Directories' => 
-		false,
+		'Сангууд',
 
 		'User Information' => 
-		false,
+		'Хэрэглэгчийн мэдээлэл',
 
 		'Once installed, you will be able to login to the Symphony admin with these user details.' => 
 		false,
 
 		'Personal Information' => 
-		false,
+		'Хувийн мэдээлэл',
 
 		'Please add the following personal details for this user.' => 
 		false,
 
 		'Install Symphony' => 
-		false,
+		'Симпони суулгах',
 
 		'Make sure that you delete <code>%s</code> file after Symphony has installed successfully.' => 
 		false,
 
 		'Version %s' => 
-		false,
+		'Хувилбар %s',
 
 		'Outstanding Requirements' => 
 		false,
@@ -1419,7 +1419,7 @@
 		false,
 
 		'Update Symphony' => 
-		false,
+		'Симпони шинэчлэх',
 
 		'You are already using the most recent version of Symphony. There is no need to run the installer, and can be safely deleted.' => 
 		false,
@@ -1464,7 +1464,7 @@
 		false,
 
 		'SMTP' => 
-		false,
+		'SMTP',
 
 		'Email: SMTP' => 
 		false,
@@ -1500,7 +1500,7 @@
 		false,
 
 		'Dear <!-- RECIPIENT NAME -->,' => 
-		false,
+		'Хүндэт <!-- RECIPIENT NAME -->,',
 
 		'This is a courtesy email to notify you that an entry was created on the %1$s section. You can edit the entry by going to: %2$s' => 
 		false,
@@ -1521,7 +1521,7 @@
 		false,
 
 		'No' => 
-		false,
+		'Үгүй',
 
 		'Long Description' => 
 		false,
@@ -1530,7 +1530,7 @@
 		false,
 
 		'Date' => 
-		false,
+		'Огноо',
 
 		'The date specified in \'%s\' is invalid.' => 
 		false,
@@ -1659,58 +1659,58 @@
 		false,
 
 		'yesterday' => 
-		false,
+		'өчигдөр',
 
 		'today' => 
-		false,
+		'өнөөдөр',
 
 		'tomorrow' => 
-		false,
+		'маргааш',
 
 		'now' => 
-		false,
+		'одоо',
 
 		'Sunday' => 
-		false,
+		'Ням',
 
 		'Monday' => 
-		false,
+		'Даваа',
 
 		'Tuesday' => 
-		false,
+		'Мягмар',
 
 		'Wednesday' => 
-		false,
+		'Лхагва',
 
 		'Thursday' => 
-		false,
+		'Пүрэв',
 
 		'Friday' => 
-		false,
+		'Баасан',
 
 		'Saturday' => 
-		false,
+		'Бямба',
 
 		'Sun' => 
-		false,
+		'Ням',
 
 		'Mon' => 
-		false,
+		'Дав',
 
 		'Tue' => 
-		false,
+		'Мяг',
 
 		'Wed' => 
-		false,
+		'Лха',
 
 		'Thu' => 
-		false,
+		'Пүр',
 
 		'Fri' => 
-		false,
+		'Баа',
 
 		'Sat' => 
-		false,
+		'Бям',
 
 		'January' => 
 		false,
