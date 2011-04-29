@@ -18,16 +18,16 @@
 		// Missing
 
 		'Add item' => 
-		'',
+		'Бүлэг нэмэх',
 
 		'Remove selected items' => 
-		false,
+		'Сонгосон бүлгүүдийг устгах',
 
 		'Are you sure you want to proceed?' => 
-		false,
+		'Та үргэлжилүүлэхдээ итгэлтэй байна уу?',
 
 		'Reordering was unsuccessful.' => 
-		false,
+		'Дахин эрэмбэлэлт амжилтгүй.',
 
 		'Password' => 
 		'Нууц код',
@@ -51,13 +51,13 @@
 		'{$minutes} минутын өмнө',
 
 		'about 1 hour ago' => 
-		false,
+		'ойролцоогоор 1 цагийн өмнө',
 
 		'about {$hours} hours ago' => 
-		false,
+		'ойролцоогоор {$hours} цагийн өмнө',
 
 		'Remove item' => 
-		false,
+		'Бүлэг устгах',
 
 		'Expand all' => 
 		'Бүгдийг дэлгэх',
@@ -93,10 +93,10 @@
 		'Шинэ үйлдэл үүсгэх',
 
 		'Data Sources' => 
-		false,
+		'Өгөгдлийн эхүүд',
 
 		'Create a new data source' => 
-		false,
+		'Шинэ өгөгдлийн эх үүсгэх',
 
 		'Utilities' => 
 		'Хэрэгсэлүүд',
@@ -114,22 +114,22 @@
 		false,
 
 		'Untitled' => 
-		false,
+		'Гарчиггүй',
 
 		'Essentials' => 
-		false,
+		'Зайлшгүй хэрэгцээтэй',
 
 		'Name' => 
 		'Нэр',
 
 		'Source' => 
-		false,
+		'Эх',
 
 		'System' => 
 		'Систем',
 
 		'Authors' => 
-		false,
+		'Авторууд',
 
 		'Navigation' => 
 		false,
@@ -144,7 +144,7 @@
 		'Статик XML',
 
 		'Sections' => 
-		false,
+		'Бүтцүүд',
 
 		'Filter Results' => 
 		false,
@@ -156,13 +156,13 @@
 		false,
 
 		'System ID' => 
-		false,
+		'Систем ID',
 
 		'Value' => 
 		'Утга',
 
 		'System Date' => 
-		false,
+		'Системийг огноо',
 
 		'Filter Authors by' => 
 		false,
@@ -255,19 +255,19 @@
 		false,
 
 		'None' => 
-		false,
+		'Юу ч үгүй',
 
 		'User type' => 
 		'Хэрэлэгчийн төрөл',
 
 		'System Author' => 
-		false,
+		'Системийн автор',
 
 		'The parameter <code id="output-param-name">$ds-%s</code> will be created with this field\'s value for XSLT or other data sources to use.' => 
 		false,
 
 		'XML Output' => 
-		false,
+		'XML Гаралт',
 
 		'Group By' => 
 		'Групп',
@@ -306,43 +306,43 @@
 		false,
 
 		'Body' => 
-		false,
+		'Гол хэсэг',
 
 		'Save Changes' => 
 		'Өөрчлөлтийг хадгалах',
 
 		'Create Data Source' => 
-		false,
+		'Өгөгдлийн эх үүсгэх',
 
 		'Delete' => 
 		'Устгах',
 
 		'Delete this data source' => 
-		false,
+		'Энэ өгөгдлийн эхийг устгах',
 
 		'Are you sure you want to delete this data source?' => 
-		false,
+		'Энэ өгөгдлийн эхийн устгахдаа итгэлтэй байна уу?',
 
 		'%1$s &ndash; %2$s &ndash; %3$s' => 
 		false,
 
 		'Data Source' => 
-		false,
+		'Өгөгдлийн эх',
 
 		'Version' => 
 		'Хувилбар',
 
 		'released on' => 
-		false,
+		'бүтээгдсэн',
 
 		'Description' => 
 		'Тайлбар',
 
 		'Example XML' => 
-		false,
+		'Загвар XML',
 
 		'Failed to delete <code>%s</code>. Please check permissions.' => 
-		false,
+		'<code>%s</code> устгалт амжилтгүй. Зөвшөөрлөө шалгана уу?.',
 
 		'This is a required field' => 
 		'Энэ заавал утга оруулах талбар',
@@ -351,22 +351,22 @@
 		'Тохирохгүй XML',
 
 		'Must be a valid number' => 
-		false,
+		'Тохирох дугаар байх ёстой',
 
 		'Must be greater than zero' => 
-		false,
+		'Тэгээс их байх ёстой',
 
 		'A result limit must be set' => 
-		false,
+		'Үр дүнгийн хязгаар оруулах шаардлагатай',
 
 		'Must be a valid number or parameter' => 
-		false,
+		'Тохирох дугаар эсвэл параметер байх ёстой',
 
 		'A page number must be set' => 
-		false,
+		'Хуудасны дугаар оруулах ёстой',
 
 		'A Data source with the name <code>%s</code> name already exists' => 
-		false,
+		'<code>%s</code> нэртэй өгөгдлийн эх аль хэдийн үүсгэгдсэн байна',
 
 		'Failed to write Data source to <code>%s</code>. Please check permissions.' => 
 		false,
@@ -378,7 +378,7 @@
 		false,
 
 		'Filter Options' => 
-		false,
+		'Шүүлтүүрийн тохиргоо',
 
 		'Admin Only' => 
 		'Зөвхөн захирагч ',
@@ -396,7 +396,7 @@
 		'Энэ үйлдлийг устгах',
 
 		'Are you sure you want to delete this event?' => 
-		false,
+		'Та энэ үйлдлийг устгахдаа итгэлтэй байна уу?',
 
 		'An Event with the name <code>%s</code> name already exists' => 
 		false,
@@ -408,7 +408,7 @@
 		false,
 
 		'Entry [created | edited] successfully.' => 
-		false,
+		'Бичлэг [үүсгэлт | засалт] амжилттай.',
 
 		'When an error occurs during saving, due to either missing or invalid fields, the following XML will be returned' => 
 		false,
@@ -423,7 +423,7 @@
 		false,
 
 		'Recipient not found' => 
-		false,
+		'Хүлээн авагч алга',
 
 		'Example Front-end Form Markup' => 
 		false,
@@ -480,13 +480,13 @@
 		'Хүү холбоос',
 
 		'None found.' => 
-		false,
+		'Юу ч алга байна.',
 
 		'With Selected...' => 
-		false,
+		'Сонголтуудтай ...',
 
 		'Are you sure you want to delete the selected pages?' => 
-		false,
+		'Та сонгосон хуудсуудыг устгахдаа итгэлтэй байна уу?',
 
 		'Apply' => 
 		'Идэвхижүүлэх',
@@ -501,7 +501,7 @@
 		'Хуудасны тохируулга засах',
 
 		'Page created at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Pages</a>' => 
-		false,
+		'%1$s хуудас үүсгэгдсэн. <a href="%2$s" accesskey="c">Өөрийг үүсгэх?</a> <a href="%3$s" accesskey="a">Хуудсуудыг харах</a>',
 
 		'Edit Template' => 
 		'Загварыг засах',
@@ -519,7 +519,7 @@
 		'Холбоосын параметрүүд',
 
 		'Page Resources' => 
-		false,
+		'Хуудасны нөөцүүд',
 
 		'Create Page' => 
 		'Хуудас үүсгэх',
@@ -528,10 +528,10 @@
 		'Энэ хуудсныг устгах',
 
 		'Are you sure you want to delete this page?' => 
-		false,
+		'Та энэ хуудсыг устгахдаа итгэлтэй байна уу?',
 
 		'Body is a required field.' => 
-		false,
+		'Гол хэсэг заавал утга оруулах талбар.',
 
 		'This document is not well formed. The following error was returned: <code>%s</code>' => 
 		false,
@@ -542,23 +542,23 @@
 		'Title is a required field' => 
 		'Гарчиг заавал утга оруулах талбар',
 
-		'An index type page already exists.' => 
-		false,
+		'An index type page already exists.' => 		
+		'index төрлийн хуудас үүсгэгдсэн байна.',
 
 		'A 404 type page already exists.' => 
-		false,
+		'404 төрлийн хуудас үүсгэгдсэн байна.',
 
 		'A 403 type page already exists.' => 
-		false,
-
+		'403 төрлийн хуудас үүсгэгдсэн байна.',
+		
 		'Page could not be written to disk. Please check permissions on <code>/workspace/pages</code>.' => 
 		false,
 
-		'A page with that title already exists' => 
-		false,
+		'A page with that title already exists' => 		
+		'Ийм гарчигтай хуудас үүсгэгдсэн байна.',
 
-		'A page with that handle already exists' => 
-		false,
+		'A page with that handle already exists' => 		
+		'Ийм хайдль-тай хуудас үүсгэгдсэн байна.',
 
 		'Unknown errors occurred while attempting to save. Please check your <a href="%s">activity log</a>.' => 
 		false,
@@ -594,13 +594,13 @@
 		false,
 
 		'Content' => 
-		false,
+		'Өгөгдөл',
 
 		'%s Hide this section from the back-end menu' => 
 		false,
 
 		'Created if does not exist' => 
-		false,
+		'Хэрэв байхгүй бол үүсгэнэ',
 
 		'Fields' => 
 		'Талбарууд',
@@ -627,7 +627,7 @@
 		'Энэ бүтцийг устгах',
 
 		'Are you sure you want to delete this section?' => 
-		false,
+		'Та энэ хэсгийг устгахдаа итгэлтэй байна уу?',
 
 		'This is a required field.' => 
 		'Энэ заавал утга оруулах талбар',
@@ -657,13 +657,14 @@
 		'Энэ хэрэгслийг устгах',
 
 		'Are you sure you want to delete this Utility?' => 
-		false,
+		'Та энэ хэрэгслийг устгахдаа итгэлтэй байна уу?',
 
 		'Name is a required field.' => 
 		'Нэр заавал утга оруулах талбар',
 
 		'A Utility with that name already exists. Please choose another.' => 
-		false,
+		
+		'Ийм нэртэй хэрэгсэл үүсгэгдсэн байна. Өөр нэр сонгоно уу.',
 
 		'Login' => 
 		'Нэвтрэх',
@@ -816,7 +817,7 @@
 		false,
 
 		'Login Details' => 
-		false,
+		'Нэвтрэх нарийн мэдээлэл',
 
 		'Developer' => 
 		'Хөгжүүлэгч',
@@ -833,17 +834,17 @@
 		'%1$s Allow remote login via <a href="%2$s">%2$s</a>' => 
 		false,
 
-		'Default Area' => 
-		false,
+		'Default Area' => 		
+		'Үндсэн байршил',
 
 		'Custom Preferences' => 
-		false,
+		'Зарим тохируулгууд',
 
 		'Language' => 
 		'Хэл',
 
 		'System Default' => 
-		false,
+		'Системтэй адил',
 
 		'Create Author' => 
 		'Автор үүсгэх',
@@ -860,11 +861,11 @@
 		'There were some problems while attempting to save. Please check below for problem fields.' => 
 		false,
 
-		'Wrong password. Enter old password to change it.' => 
-		false,
+		'Wrong password. Enter old password to change it.' => 		
+		'Буруу нууц код. Хуучин нууц кодоо оруулан өөрчилнө үү.',
 
 		'Wrong password. Enter old one to change email address.' => 
-		false,
+		'Буруу нууц код. Хуучин нууц кодоо оруулан э-шуудангийн хаягаа өөрчилнө үү.',
 
 		'You cannot remove yourself as you are the active Author.' => 
 		false,
@@ -1470,13 +1471,13 @@
 		false,
 
 		'No encryption' => 
-		false,
+		'Нууцлалгүй',
 
 		'SSL encryption' => 
-		false,
+		'SSL нууцлал',
 
 		'TLS encryption' => 
-		false,
+		'TLS нууцлал',
 
 		'For a secure connection, SSL and TLS are supported. Please check the manual of your email provider for more details.' => 
 		false,
