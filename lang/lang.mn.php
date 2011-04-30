@@ -1294,16 +1294,16 @@
 		'Сайтын нэр',
 
 		'Environment Settings' => 
-		false,
+		'Орчны тохиргоо',
 
 		'Symphony is ready to be installed at the following location.' => 
-		false,
+		'Симпони доорх байрлалд суухад бэлэн болсон байна.',
 
 		'Root Path' => 
 		'Рүүт байрлал',
 
 		'Website Preferences' => 
-		false,
+		'Сайтын тохируулгууд',
 
 		'Date and Time' => 
 		'Огноо ба Цаг',
@@ -1312,7 +1312,7 @@
 		false,
 
 		'Region' => 
-		false,
+		'Бүс нутаг',
 
 		'Date Format' => 
 		'Огнооны хэлбэржүүлэлт',
@@ -1327,7 +1327,7 @@
 		'Өгөгдлийн сангийн холболт',
 
 		'Please provide Symphony with access to a database.' => 
-		false,
+		'Симпони өгөгдлийн сантай холбогдох мэдээллийг оруулна уу.',
 
 		'Database' => 
 		'Өгөгдлийн сан',
@@ -1354,10 +1354,10 @@
 		false,
 
 		'Permission Settings' => 
-		false,
+		'Хязгаарлалтын тохиргоо',
 
 		'Symphony needs permission to read and write both files and directories.' => 
-		false,
+		'Симпонид файл болон сангууд бичигдэх болон уншигдах горим хэрэгтэй.',
 
 		'Files' => 
 		'Файлууд',
@@ -1375,13 +1375,13 @@
 		'Хувийн мэдээлэл',
 
 		'Please add the following personal details for this user.' => 
-		false,
+		'Хувийн доорх мэдээллүүдийг нэмж оруулна уу.' ,
 
 		'Install Symphony' => 
 		'Симпони суулгах',
 
 		'Make sure that you delete <code>%s</code> file after Symphony has installed successfully.' => 
-		false,
+		'Симпони суугдсаныг дараа <code>%s</code> файлыг устгаарай.',
 
 		'Version %s' => 
 		'Хувилбар %s',
@@ -1435,7 +1435,7 @@
 		false,
 
 		'Symphony is also available in other languages' => 
-		false,
+		'Симпони-н бусад хэлүүд',
 
 		'XML returned is invalid.' => 
 		false,
