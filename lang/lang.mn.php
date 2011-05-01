@@ -105,13 +105,13 @@
 		'Шинэ хэрэгсэл үүсгэх',
 
 		'An error occurred while processing this form. <a href="#error">See below for details.</a>' => 
-		false,
+		'Форм боловсруулах явцад алдаа гарлаа.<a href="#error">Дэлгэрэнгүйг доорх мэдээллээс хара уу.</a>',
 
 		'Data source updated at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Data sources</a>' => 
-		false,
+		'%1$s-д Өгөгдлийн эх шинэчлэгдлээ. <a href="%2$s" accesskey="c">Өөрийг үүсгэх?</a> <a href="%3$s" accesskey="a">Бүх өгөгдлийн эхийг харах</a>',
 
 		'Data source created at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Data sources</a>' => 
-		false,
+		'%1$s-д Өгөгдлийн эх үүсгэгдлээ. <a href="%2$s" accesskey="c">Өөрийг үүсгэх?</a> <a href="%3$s" accesskey="a">Бүх өгөгдлийн эхийг харах</a>',
 
 		'Untitled' => 
 		'Гарчиггүй',
@@ -234,10 +234,10 @@
 		false,
 
 		'Output Options' => 
-		false,
+		'Гаралтын тохируулга',
 
 		'Required URL Parameter' => 
-		false,
+		'Холбоост хэрэгтэй параметерүүд',
 
 		'Optional' => 
 		'Заавал бус',
@@ -246,10 +246,10 @@
 		false,
 
 		'%s Redirect to 404 page when no results are found' => 
-		false,
+		'%s Үр дүн байхгүй бол 404 хуудасруу үсрэх',
 
 		'Parameter Output' => 
-		false,
+		'Параметер гаралт',
 
 		'Use Field' => 
 		false,
@@ -468,10 +468,10 @@
 		'Загвар',
 
 		'<acronym title="Universal Resource Locator">URL</acronym>' => 
-		false,
+		'<acronym title="Universal Resource Locator">Холбоос</acronym>',
 
 		'<acronym title="Universal Resource Locator">URL</acronym> Parameters' => 
-		false,
+		'<acronym title="Universal Resource Locator">Холбоос</acronym> параметерүүд',
 
 		'Type' => 
 		'Төрөл',
@@ -889,10 +889,10 @@
 		'Хүчингүй',
 
 		'Enable to install %s' => 
-		false,
+		'Хүчинтэй болгож суулгах %s',
 
 		'Enable to update to %s' => 
-		false,
+		'Хүчинтэй болгож шинэчлэх %s',
 
 		'Enable' => 
 		'Хүчинтэй болгох',
@@ -919,7 +919,7 @@
 		'Системийн хэл',
 
 		'Authors can set up a differing language in their profiles.' => 
-		false,
+		'Автор болгон өөрийнхөөрөө тохируулж болно.',
 
 		'Email Gateway' => 
 		'Э-шуудан гатевэй',
@@ -979,13 +979,13 @@
 		'Хэрэглэгчийн нэр хэрэгцээтэй',
 
 		'Username is already taken' => 
-		false,
+		'Хэрэглэгчийн нэр сонгогдсон байна',
 
 		'Password is required' => 
 		'Нууц код хэрэгцээтэй',
 
 		'No records found.' => 
-		false,
+		'Өгөгдөл олдсонгүй.',
 
 		'Could not find Data Source <code>%s</code>. If the Data Source was provided by an Extension, ensure that it is installed, and enabled.' => 
 		false,
@@ -1063,10 +1063,10 @@
 		false,
 
 		'Label' => 
-		false,
+		'Шошго',
 
 		'Placement' => 
-		false,
+		'Байрлуулалт',
 
 		'Main content' => 
 		'Үндсэн өгөгдөл',
@@ -1081,7 +1081,7 @@
 		'Шалгах дүрэм',
 
 		'%s Make this a required field' => 
-		false,
+		'%s Хэрэгцээтэй талбар болгох',
 
 		'%s Display field’s value in entries table' => 
 		false,
@@ -1096,7 +1096,7 @@
 		false,
 
 		'\'%s\' is a required field.' => 
-		false,
+		'\'%s\' бол хэрэгцээтэй талбар.',
 
 		'Data source output grouping is not supported by the <code>%s</code> field' => 
 		false,
@@ -1111,22 +1111,22 @@
 		false,
 
 		'Large' => 
-		false,
+		'Асар том',
 
 		'Small' => 
-		false,
+		'Жижиг',
 
 		'Hot' => 
-		false,
+		'Халуун',
 
 		'Cold' => 
-		false,
+		'Хүйтэн',
 
 		'Big' => 
-		false,
+		'Том',
 
 		'Hairy' => 
-		false,
+		'Арзгар',
 
 		'Round' => 
 		false,
@@ -1141,28 +1141,28 @@
 		false,
 
 		'Cats' => 
-		false,
+		'Муурууд',
 
 		'Dogs' => 
-		false,
+		'Нохойнууд',
 
 		'Weasels' => 
 		false,
 
 		'Birds' => 
-		false,
+		'Болжморууд',
 
 		'Worms' => 
-		false,
+		'Өтүүд',
 
 		'Bugs' => 
-		false,
+		'Алдаанууд',
 
 		'Pigs' => 
-		false,
+		'Гахайнууд',
 
 		'Monkeys' => 
-		false,
+		'Сармагчингууд',
 
 		'Pirates' => 
 		false,
@@ -1171,10 +1171,10 @@
 		false,
 
 		'Men' => 
-		false,
+		'Залуу',
 
 		'Women' => 
-		false,
+		'Бүсгүй',
 
 		'Unable to remove file - %s' => 
 		false,
@@ -1318,7 +1318,7 @@
 		'Огнооны хэлбэржүүлэлт',
 
 		'no leading zeros' => 
-		false,
+		'Тэгүүдийг оруулаагүй',
 
 		'Time Format' => 
 		'Цагийн хэлбэржүүлэлт',
@@ -1348,7 +1348,7 @@
 		'Хүснэгтийн прэпикс',
 
 		'Use compatibility mode' => 
-		false,
+		'Нийцтэй горим ашиглах',
 
 		'Symphony normally specifies UTF-8 character encoding for database entries. With compatibility mode enabled, Symphony will instead use the default character encoding of your database.' => 
 		false,
@@ -1405,7 +1405,7 @@
 		false,
 
 		'ZLib Compression Library' => 
-		false,
+		'ZLib Шахагч Сан',
 
 		'Data retrieved from the Symphony support server is decompressed with the ZLib compression library.' => 
 		false,
@@ -1429,7 +1429,7 @@
 		false,
 
 		'Installation Failure' => 
-		false,
+		'Суулгалт алдаатай',
 
 		'An error occurred during installation. You can view you log <a href="install-log.txt">here</a> for more details.' => 
 		false,
@@ -1450,19 +1450,19 @@
 		false,
 
 		'Sendmail (default)' => 
-		false,
+		'Sendmail (эхний байдлаар)',
 
 		'Email: Sendmail' => 
-		false,
+		'Э-Шуудан: Sendmail',
 
 		'The following default settings will be used to send emails unless they are overwritten.' => 
 		false,
 
 		'From Name' => 
-		false,
+		'Хаанаас нэр',
 
 		'From Email Address' => 
-		false,
+		'Хаанаас Э-шуудангийн хаяг',
 
 		'SMTP' => 
 		'SMTP',
@@ -1552,10 +1552,10 @@
 		false,
 
 		'Predefined Values' => 
-		false,
+		'Өмнө нь тодорхойлогдсон утгууд',
 
 		'Dynamic Values' => 
-		false,
+		'Динамик утгууд',
 
 		'%s Allow selection of multiple options' => 
 		false,
@@ -1567,7 +1567,7 @@
 		false,
 
 		'Tag List' => 
-		false,
+		'Таг жагсаалт',
 
 		'Suggestion List' => 
 		false,
@@ -1582,13 +1582,13 @@
 		false,
 
 		'Text Formatter' => 
-		false,
+		'Текст хэвшүүлэгч',
 
 		'Make textarea %s rows tall' => 
 		false,
 
 		'File Upload' => 
-		false,
+		'Файл илгээх',
 
 		'The destination directory, <code>%s</code>, does not exist.' => 
 		false,
@@ -1600,7 +1600,7 @@
 		false,
 
 		'Destination Directory' => 
-		false,
+		'Буух байрлал',
 
 		'The file uploaded is no longer available. Please check that it exists, and is readable.' => 
 		false,
@@ -1630,34 +1630,34 @@
 		false,
 
 		'Database Error' => 
-		false,
+		'Өгөгдлийн санийн алдаа',
 
 		'Symphony Database Error' => 
-		false,
+		'Симпони Өгөгдлийн сангийн алдаа',
 
 		'XSLT Processing Error' => 
-		false,
+		'XSLT боловсруулалтийн алдаа',
 
 		'This page could not be rendered due to the following XSLT processing errors.' => 
-		false,
+		'XSLT боловсруулалтын үеийн алдаанаас болж хуудас дүрслэгдсэнгүй.',
 
 		'<a href="%s" title="Show debug view">Compile</a>' => 
-		false,
+		'<a href="%s" title="Дэбаг харуулах">Хөрвүүлэх</a>',
 
 		'General' => 
-		false,
+		'Үндсэн',
 
 		'<a href="%1$s" title="Show debug view for %2$s">Line %3$d</a>' => 
 		false,
 
 		'Line %s' => 
-		false,
+		'%s мөр',
 
 		'XML' => 
-		false,
+		'XML',
 
 		'Blueprints' => 
-		false,
+		'Төлөвлөгөө',
 
 		'yesterday' => 
 		'өчигдөр',
@@ -1714,40 +1714,40 @@
 		'Бям',
 
 		'January' => 
-		false,
+		'Нэг дүгээр сар',
 
 		'February' => 
-		false,
+		'Хоёр дугаар сар',
 
 		'March' => 
-		false,
+		'Гурав дугаар сар',
 
 		'April' => 
-		false,
+		'Дөрөв дүгээр сар',
 
 		'May' => 
-		false,
+		'Тав дугаар сар',
 
 		'June' => 
-		false,
+		'Зургаа дугаар сар',
 
 		'July' => 
-		false,
+		'Долоо дугаар сар',
 
 		'August' => 
-		false,
+		'Найм дугаар сар',
 
 		'September' => 
-		false,
+		'Ес дүгээр сар',
 
 		'October' => 
-		false,
+		'Арав дугаар сар',
 
 		'November' => 
-		false,
+		'Арван нэг дүгээр сар',
 
 		'December' => 
-		false,
+		'Арван хоёр дугаар сар',
 
 		'Jan' => 
 		false,
@@ -1855,7 +1855,7 @@
 		false,
 
 		'first' => 
-		false,
+		'эхний',
 
 		'third' => 
 		false,
@@ -1888,16 +1888,16 @@
 		false,
 
 		'next' => 
-		false,
+		'дараах',
 
 		'last' => 
-		false,
+		'сүүлийн',
 
 		'previous' => 
-		false,
+		'өмнөх',
 
 		'this' => 
-		false,
+		'энэ',
 
 	);
 
