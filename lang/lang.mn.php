@@ -42,7 +42,7 @@
 		false,
 
 		'just now' => 
-		'яг одоо',
+		'Дөнгөж саяхан',
 
 		'a minute ago' => 
 		'минутын өмнө',
@@ -105,7 +105,7 @@
 		'Шинэ хэрэгсэл үүсгэх',
 
 		'An error occurred while processing this form. <a href="#error">See below for details.</a>' => 
-		'Форм боловсруулах явцад алдаа гарлаа.<a href="#error">Дэлгэрэнгүйг доорх мэдээллээс хара уу.</a>',
+		'Форм боловсруулах явцад алдаа гарлаа.<a href="#error">Дэлгэрэнгүйг доорх мэдээллээс харна уу.</a>',
 
 		'Data source updated at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Data sources</a>' => 
 		'%1$s-д Өгөгдлийн эх шинэчлэгдлээ. <a href="%2$s" accesskey="c">Өөрийг үүсгэх?</a> <a href="%3$s" accesskey="a">Бүх өгөгдлийн эхийг харах</a>',
@@ -252,7 +252,7 @@
 		'Параметер гаралт',
 
 		'Use Field' => 
-		false,
+		'Хэрэглэх талбар',
 
 		'None' => 
 		'Юу ч үгүй',
@@ -492,7 +492,7 @@
 		'Идэвхижүүлэх',
 
 		'Page updated at %1$s. <a href="%2$s" accesskey="c">Create another?</a> <a href="%3$s" accesskey="a">View all Pages</a>' => 
-		false,
+		'%1$s хуудасыг шинэчиллээ. <a href="%2$s" accesskey="c">Өөрийг үүсгэх?</a> <a href="%3$s" accesskey="a">Бүх хуудсыг харах</a>',
 
 		'Edit Configuration' => 
 		'Тохируулга засах',
@@ -513,7 +513,7 @@
 		'Хуудасны тохиргоо',
 
 		'URL Handle' => 
-		false,
+		'Холбоосын хандалт',
 
 		'URL Parameters' => 
 		'Холбоосын параметрүүд',
@@ -621,7 +621,7 @@
 		false,
 
 		'Choose only one. Created if does not exist' => 
-		false,
+		'Зөвхөн нэгийг сонгоно. Хэрэв байхгүй бол үүсгэнэ',
 
 		'Delete this section' => 
 		'Энэ бүтцийг устгах',
@@ -946,7 +946,7 @@
 		'Хуудас олдсонгүй',
 
 		'The page you requested does not exist.' => 
-		false,
+		'Таны хүссэн хуудас олдсонгүй.',
 
 		'Invalid timezone \'{$timezone}\'' => 
 		'Тохирохгүй цагийн бүс \'{$timezone}\'',
@@ -1657,7 +1657,7 @@
 		'XML',
 
 		'Blueprints' => 
-		'Төлөвлөгөө',
+		'Төлөвлөлт',
 
 		'yesterday' => 
 		'өчигдөр',
@@ -1714,40 +1714,52 @@
 		'Бям',
 
 		'January' => 
-		'Нэг дүгээр сар',
+		false,
+/* 		'Нэг дүгээр сар', */
 
 		'February' => 
-		'Хоёр дугаар сар',
+		false, 
+/* 		'Хоёр дугаар сар', */
 
 		'March' => 
-		'Гурав дугаар сар',
+		false, 
+/* 		'Гурав дугаар сар', */
 
 		'April' => 
-		'Дөрөв дүгээр сар',
+		false, 
+/* 		'Дөрөв дүгээр сар', */
 
 		'May' => 
-		'Тав дугаар сар',
+		false,
+/* 		'Тав дугаар сар', */
 
 		'June' => 
-		'Зургаа дугаар сар',
+		false, 
+/* 		'Зургаа дугаар сар', */
 
 		'July' => 
-		'Долоо дугаар сар',
+		false, 
+/* 		'Долоо дугаар сар', */
 
 		'August' => 
-		'Найм дугаар сар',
+		false, 
+/* 		'Найм дугаар сар', */
 
 		'September' => 
-		'Ес дүгээр сар',
+		false, 
+/* 		'Ес дүгээр сар', */
 
 		'October' => 
-		'Арав дугаар сар',
+		false, 
+/* 		'Арав дугаар сар', */
 
 		'November' => 
-		'Арван нэг дүгээр сар',
+		false, 
+/* 		'Арван нэг дүгээр сар', */
 
 		'December' => 
-		'Арван хоёр дугаар сар',
+		false, 
+/* 		'Арван хоёр дугаар сар', */
 
 		'Jan' => 
 		false,
